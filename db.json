@@ -3,7 +3,7 @@
 		{
 			"name": "AutoUpdater",
 			"version": "0.1.2",
-			"description": "This is the latest update."
+			"descriptions": "This is the latest update."
 		}
 	]
 }
